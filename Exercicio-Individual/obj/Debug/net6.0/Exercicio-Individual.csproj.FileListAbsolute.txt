@@ -1,0 +1,15 @@
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\bin\Debug\net6.0\Exercicio-Individual.exe
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\bin\Debug\net6.0\Exercicio-Individual.deps.json
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\bin\Debug\net6.0\Exercicio-Individual.runtimeconfig.json
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\bin\Debug\net6.0\Exercicio-Individual.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\bin\Debug\net6.0\ref\Exercicio-Individual.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\bin\Debug\net6.0\Exercicio-Individual.pdb
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\obj\Debug\net6.0\Exercicio-Individual.csproj.AssemblyReference.cache
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\obj\Debug\net6.0\Exercicio-Individual.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\obj\Debug\net6.0\Exercicio-Individual.AssemblyInfoInputs.cache
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\obj\Debug\net6.0\Exercicio-Individual.AssemblyInfo.cs
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\obj\Debug\net6.0\Exercicio-Individual.csproj.CoreCompileInputs.cache
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\obj\Debug\net6.0\Exercicio-Individual.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\obj\Debug\net6.0\ref\Exercicio-Individual.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\obj\Debug\net6.0\Exercicio-Individual.pdb
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\Exercicio-Individual\obj\Debug\net6.0\Exercicio-Individual.genruntimeconfig.cache

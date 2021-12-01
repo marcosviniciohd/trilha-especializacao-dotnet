@@ -1,0 +1,15 @@
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\bin\Debug\net6.0\orientacao-objetos.exe
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\bin\Debug\net6.0\orientacao-objetos.deps.json
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\bin\Debug\net6.0\orientacao-objetos.runtimeconfig.json
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\bin\Debug\net6.0\orientacao-objetos.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\bin\Debug\net6.0\ref\orientacao-objetos.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\bin\Debug\net6.0\orientacao-objetos.pdb
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\obj\Debug\net6.0\orientacao-objetos.csproj.AssemblyReference.cache
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\obj\Debug\net6.0\orientacao-objetos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\obj\Debug\net6.0\orientacao-objetos.AssemblyInfoInputs.cache
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\obj\Debug\net6.0\orientacao-objetos.AssemblyInfo.cs
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\obj\Debug\net6.0\orientacao-objetos.csproj.CoreCompileInputs.cache
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\obj\Debug\net6.0\orientacao-objetos.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\obj\Debug\net6.0\ref\orientacao-objetos.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\obj\Debug\net6.0\orientacao-objetos.pdb
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\orientacao-objetos\obj\Debug\net6.0\orientacao-objetos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.exe
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.deps.json
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.runtimeconfig.json
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\bin\Debug\net6.0\ref\PrimeiroProjeto.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.pdb
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfo.cs
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\obj\Debug\net6.0\ref\PrimeiroProjeto.dll
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.pdb
+F:\Cursos\gama-academy\trilha-especializacao\Treinamento C# Net\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.genruntimeconfig.cache
