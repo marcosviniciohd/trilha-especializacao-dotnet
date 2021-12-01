@@ -13,10 +13,10 @@ namespace ProgramacaoOrientadaObjetos{
 
             Console.WriteLine($"O nome da pessoa é: {objetoPessoa.Nome} {objetoPessoa.Sobrenome}");
 
-            Pessoa novoObjetoPessoa = new Pessoa("Marcos", "Vinício", DateTime.Now);
-            Console.WriteLine($"O nome da pessoa: {novoObjetoPessoa.Nome} {novoObjetoPessoa.Sobrenome} {novoObjetoPessoa.DataNascimento}");
+            Pessoa novoObjetoPessoa = new Pessoa("Marcos", "Vinício", new DateTime(1986, 04, 04));
+            Console.WriteLine($"O nome da pessoa: {novoObjetoPessoa.Nome} {novoObjetoPessoa.Sobrenome}. {novoObjetoPessoa.CalculaIdade()}");
             
         }
-    }
+    } 
 
 }

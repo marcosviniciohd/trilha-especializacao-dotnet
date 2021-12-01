@@ -23,6 +23,13 @@ namespace ProgramacaoOrientadaObjetos{
 
         public string CalculaIdade(){
             int anos = DateTime.Now.Year - this.DataNascimento.Year;
+            
+            if(this.DataNascimento.Month > DateTime.Now.Month){
+                anos--;
+            }
+            
+
+            return $"{this.Nome} têm {anos} anos de idade";
         }
         
     }
