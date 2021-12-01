@@ -22,7 +22,7 @@ namespace ProgramacaoOrientadaObjetos{
         }
 
         public string CalculaIdade(){
-            
+            int anos = DateTime.Now.Year - this.DataNascimento.Year;
         }
         
     }
